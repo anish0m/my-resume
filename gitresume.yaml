@@ -31,7 +31,7 @@ sections:
         startDate: "2024-12"
         description: |
           - **Muktopay** — online banking service in collaboration with Banglalink (Java, Spring Boot, Gradle, PostgreSQL)
-          - **Revo** — job-board automation platform that scrapes and delivers data to client systems (React, Spring Boot, FastAPI, PostgreSQL)
+          - **Revo** — automation platform to scrape and deliver data to client system (React, Spring Boot, FastAPI, PostgreSQL)
           - **Cash Collection Monitoring System** — internal company finance tracker (Django, PostgreSQL, Vue, TypeScript)
           - **TalkRemit Wallet** — money exchange platform for TalkRemit Ltd, UK (Vue, TypeScript, Bootstrap)
           - **TEQ** — Visual Planner (administration), Share-Bus (trip management) and Bus-Business (vehicle management) platforms for the Norwegian bus industry (Vue, TypeScript, Bootstrap)
