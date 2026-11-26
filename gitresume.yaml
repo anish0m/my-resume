@@ -1,0 +1,137 @@
+# GitResume — Resume as Code
+# Schema: https://gitresume.co/schema/resume.schema.json
+# Docs:   https://gitresume.co/docs
+
+personalInfo:
+  name: Mohsina Tabassum Rifa
+  title: Software Engineer | Competitive Programmer
+  email: mohsina.tabassum.rifa@gmail.com
+  phone: "+880-1318-241452"
+  location: Dhaka, Bangladesh
+  links:
+    - label: GitHub
+      url: https://github.com/anish0m
+    - label: LinkedIn
+      url: https://linkedin.com/in/anish0m
+
+sections:
+  - type: summary
+    content: >-
+      Software Engineer at Brain Station 23 building full-stack web platforms for
+      fintech, banking, healthcare and transport clients in the UK, Norway and Japan,
+      using **Vue/TypeScript**, **React**, **Spring Boot** and **Django** with PostgreSQL.
+      Competitive programmer and published researcher in ML-based autism detection.
+
+  - type: experience
+    items:
+      - position: Software Engineer I
+        organization: Brain Station 23
+        location: Dhaka, Bangladesh
+        startDate: "2024-12"
+        description: |
+          - **Muktopay** — online banking service in collaboration with Banglalink (Java, Spring Boot, Gradle, PostgreSQL)
+          - **Revo** — job-board automation platform that scrapes and delivers data to client systems (React, Spring Boot, FastAPI, PostgreSQL)
+          - **Cash Collection Monitoring System** — internal application to track company finance (Vue, TypeScript, Django, PostgreSQL)
+          - **TalkRemit Wallet** — money exchange platform for TalkRemit Ltd, UK (Vue, TypeScript, Bootstrap)
+          - **Norwegian bus industry** — Visual Planner (administration), Share-Bus (trip management) and Bus-Business (vehicle management) (Vue, TypeScript, Bootstrap)
+          - **Sykehuspartner** — Norwegian hospital management platform (Vue, TypeScript, Bootstrap)
+          - **ConPass** — sister-concern management for Japanese company Nihon-Purple (Vue, TypeScript, Bootstrap)
+      - position: Mentor
+        organization: SheSTEM
+        location: Bangladesh
+        startDate: "2025-05"
+      - position: Intern, Computer Networking
+        organization: Janata Bank PLC
+        location: Dhaka, Bangladesh
+        startDate: "2023-05"
+        endDate: "2023-07"
+
+  - type: education
+    items:
+      - institution: University of Dhaka
+        degree: Executive Master in Information Technology
+        location: Dhaka, Bangladesh
+        startDate: "2026-08"
+        description: Ongoing.
+      - institution: Islamic University of Technology (IUT)
+        degree: B.Sc. in Computer Science and Engineering
+        location: Gazipur, Bangladesh
+        startDate: "2020-01"
+        endDate: "2024-07"
+      - institution: Feni Girls' Cadet College
+        degree: SSC and HSC
+        location: Feni, Bangladesh
+        startDate: "2013-01"
+        endDate: "2019-05"
+
+  - type: skills
+    items:
+      - category: Languages
+        items: [Java, Python, TypeScript, JavaScript, C++, PHP, SQL]
+      - category: Frameworks
+        items: [Spring Boot, Django, FastAPI, Vue, React, Alpine.js, Bootstrap, LangChain, Streamlit]
+      - category: Data & Tools
+        items: [PostgreSQL, SQLite, Gradle, Git, Jira]
+      - category: Machine Learning
+        items: [Decision Tree, Logistic Regression, GNB, SVM, Random Forest]
+
+  - type: generic
+    title: Personal Projects
+    items:
+      - title: AI Interview Simulator
+        description: Interview chatbot — Python, LangChain, Streamlit.
+      - title: PayNest
+        description: Mini wallet — Spring Boot, JavaScript, PostgreSQL.
+      - title: WeightingMS
+        description: Dyestuff weighing station — Django, Alpine.js, JavaScript, PostgreSQL.
+      - title: Journal
+        description: Daily logs app — Vue, Django, TypeScript, Bootstrap.
+      - title: AutoPredictor
+        description: Car price prediction — Python, machine learning.
+      - title: Personal Website
+        description: Django, SQLite, Bootstrap.
+      - title: Jumping Jett
+        description: 2D obstacle game — C++, SDL2.
+      # Shorter projects from the old CV, uncomment if you have room:
+      # - title: Tic-Tac-Toe
+      #   description: Web game — React, JavaScript.
+      # - title: Workshop
+      #   description: Task manager — Vue, HTML, CSS, Bootstrap.
+      # - title: CSS-Niffler
+      #   description: Web application — HTML, CSS, PHP.
+      # - title: Scientific Calculator
+      #   description: C++, OOP.
+
+  - type: generic
+    title: Publication
+    items:
+      - title: Autism Detection Using Webcam-Based Gaze Tracking
+        subtitle: Journal of Engineering and Technology (JET), Vol. 19 No. 3 (2025), Special Issue (IUT-ICCET)
+        startDate: "2025-01"
+
+  - type: list
+    title: Achievements
+    items:
+      - "Intra-IUT Girls' Programming Contest 2023"
+      - "National Girls' Programming Contest 2022"
+      - "National Girls' Programming Contest 2021"
+      - "Ada Lovelace Programming Contest 2021"
+
+  - type: list
+    title: Certifications (Udemy)
+    items:
+      - "Spring Boot 4 in Action: Build 5 Projects from Scratch"
+      - "React — The Complete Guide (incl. Next.js, Redux)"
+      - "Python Django — The Practical Guide"
+      - "Machine Learning A-Z: AI, Python & R"
+      - "NodeJS Complete Course: Node JS & Express JS"
+      - "The Complete Python Bootcamp From Zero to Hero"
+      - "Software Engineering 101: Plan and Execute Better Software"
+      - "MasterClass Software Testing with Jira & Agile"
+
+  - type: list
+    title: Languages
+    items:
+      - "Bengali — Native"
+      - "English — Fluent"
+      - "German — Basic"
