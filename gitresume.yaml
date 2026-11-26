@@ -74,12 +74,13 @@ sections:
   - type: list
     title: Personal Projects
     items:
-      - "**AI Interview Simulator** — interview chatbot (Python, LangChain, Streamlit)"
       - "**PayNest** — mini wallet (Spring Boot, JavaScript, PostgreSQL)"
       - "**WeightingMS** — dyestuff weighing station (Django, Alpine.js, PostgreSQL)"
+      - "**Tic-Tac-Toe** — interactive web game (React, JavaScript)"
+      - "**Journal** — daily logs app, built full-stack solo (Django, Vue, TypeScript, Bootstrap)"
+      - "**AI Interview Simulator** — interview chatbot (Python, LangChain, Streamlit)"
       - "**anish0m's Site** — personal website, built and deployed solo (Django, SQLite, Bootstrap)"
       - "**AutoPredictor** — car price prediction (Python, machine learning)"
-      - "**Journal** — daily logs app, built full-stack solo (Django, Vue, TypeScript, Bootstrap)"
       - "**Scientific Calculator** — object-oriented design (C++, OOP)"
       - "**Jumping Jett** — 2D obstacle game with multithreading (C++, SDL2)"
 
