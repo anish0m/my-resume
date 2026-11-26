@@ -77,6 +77,7 @@ sections:
       - "**AI Interview Simulator** — interview chatbot (Python, LangChain, Streamlit)"
       - "**PayNest** — mini wallet (Spring Boot, JavaScript, PostgreSQL)"
       - "**WeightingMS** — dyestuff weighing station (Django, Alpine.js, PostgreSQL)"
+      - "**anish0m's Site** — personal website, built and deployed solo (Django, SQLite, Bootstrap)"
       - "**AutoPredictor** — car price prediction (Python, machine learning)"
       - "**Journal** — daily logs app, built full-stack solo (Django, Vue, TypeScript, Bootstrap)"
       - "**Scientific Calculator** — object-oriented design (C++, OOP)"
