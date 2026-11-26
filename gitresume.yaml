@@ -53,17 +53,11 @@ sections:
         degree: Executive Master in Information Technology
         location: Dhaka, Bangladesh
         startDate: "2026-08"
-        description: Ongoing.
       - institution: Islamic University of Technology (IUT)
         degree: B.Sc. in Computer Science and Engineering
         location: Gazipur, Bangladesh
         startDate: "2020-01"
         endDate: "2024-07"
-      - institution: Feni Girls' Cadet College
-        degree: SSC and HSC
-        location: Feni, Bangladesh
-        startDate: "2013-01"
-        endDate: "2019-05"
 
   - type: skills
     items:
@@ -75,64 +69,24 @@ sections:
         items: [PostgreSQL, SQLite, Gradle, Git, Jira]
       - category: Machine Learning
         items: [Decision Tree, Logistic Regression, GNB, SVM, Random Forest]
+      - category: Spoken Languages
+        items: [Bengali (Native), English (Fluent), German (Basic)]
 
-  - type: generic
+  - type: list
     title: Personal Projects
     items:
-      - title: AI Interview Simulator
-        description: Interview chatbot — Python, LangChain, Streamlit.
-      - title: PayNest
-        description: Mini wallet — Spring Boot, JavaScript, PostgreSQL.
-      - title: WeightingMS
-        description: Dyestuff weighing station — Django, Alpine.js, JavaScript, PostgreSQL.
-      - title: Journal
-        description: Daily logs app — Vue, Django, TypeScript, Bootstrap.
-      - title: AutoPredictor
-        description: Car price prediction — Python, machine learning.
-      - title: Personal Website
-        description: Django, SQLite, Bootstrap.
-      - title: Jumping Jett
-        description: 2D obstacle game — C++, SDL2.
-      # Shorter projects from the old CV, uncomment if you have room:
-      # - title: Tic-Tac-Toe
-      #   description: Web game — React, JavaScript.
-      # - title: Workshop
-      #   description: Task manager — Vue, HTML, CSS, Bootstrap.
-      # - title: CSS-Niffler
-      #   description: Web application — HTML, CSS, PHP.
-      # - title: Scientific Calculator
-      #   description: C++, OOP.
+      - "**AI Interview Simulator** — interview chatbot (Python, LangChain, Streamlit)"
+      - "**PayNest** — mini wallet (Spring Boot, JavaScript, PostgreSQL)"
+      - "**WeightingMS** — dyestuff weighing station (Django, Alpine.js, PostgreSQL)"
+      - "**AutoPredictor** — car price prediction (Python, machine learning)"
 
-  - type: generic
+  - type: list
     title: Publication
     items:
-      - title: Autism Detection Using Webcam-Based Gaze Tracking
-        subtitle: Journal of Engineering and Technology (JET), Vol. 19 No. 3 (2025), Special Issue (IUT-ICCET)
-        startDate: "2025-01"
+      - "**Autism Detection Using Webcam-Based Gaze Tracking** — *Journal of Engineering and Technology (JET)*, Vol. 19 No. 3 (2025), Special Issue (IUT-ICCET)"
 
   - type: list
-    title: Achievements
+    title: Achievements & Certifications
     items:
-      - "Intra-IUT Girls' Programming Contest 2023"
-      - "National Girls' Programming Contest 2022"
-      - "National Girls' Programming Contest 2021"
-      - "Ada Lovelace Programming Contest 2021"
-
-  - type: list
-    title: Certifications (Udemy)
-    items:
-      - "Spring Boot 4 in Action: Build 5 Projects from Scratch"
-      - "React — The Complete Guide (incl. Next.js, Redux)"
-      - "Python Django — The Practical Guide"
-      - "Machine Learning A-Z: AI, Python & R"
-      - "NodeJS Complete Course: Node JS & Express JS"
-      - "The Complete Python Bootcamp From Zero to Hero"
-      - "Software Engineering 101: Plan and Execute Better Software"
-      - "MasterClass Software Testing with Jira & Agile"
-
-  - type: list
-    title: Languages
-    items:
-      - "Bengali — Native"
-      - "English — Fluent"
-      - "German — Basic"
+      - "Programming contests: National Girls' Programming Contest (2021, 2022), Ada Lovelace Programming Contest 2021, Intra-IUT Girls' Programming Contest 2023"
+      - "Udemy certificates: Spring Boot 4 in Action, React — The Complete Guide, Python Django — The Practical Guide, Machine Learning A-Z, Node.js & Express, Software Testing with Jira & Agile"
