@@ -86,7 +86,21 @@ sections:
       - "**Autism Detection Using Webcam-Based Gaze Tracking** — *Journal of Engineering and Technology (JET)*, Vol. 19 No. 3 (2025), Special Issue (IUT-ICCET)"
 
   - type: list
-    title: Achievements & Certifications
+    title: Achievements
     items:
-      - "Programming contests: National Girls' Programming Contest (2021, 2022), Ada Lovelace Programming Contest 2021, Intra-IUT Girls' Programming Contest 2023"
-      - "Udemy certificates: Spring Boot 4 in Action, React — The Complete Guide, Python Django — The Practical Guide, Machine Learning A-Z, Node.js & Express, Software Testing with Jira & Agile"
+      - "Intra-IUT Girls' Programming Contest 2023"
+      - "National Girls' Programming Contest 2022"
+      - "National Girls' Programming Contest 2021"
+      - "Ada Lovelace Programming Contest 2021"
+
+  - type: list
+    title: Certifications (Udemy)
+    items:
+      - "Spring Boot 4 in Action: Build 5 Projects from Scratch"
+      - "React — The Complete Guide (incl. Next.js, Redux)"
+      - "Python Django — The Practical Guide"
+      - "Machine Learning A-Z: AI, Python & R"
+      - "NodeJS Complete Course: Node JS & Express JS"
+      - "The Complete Python Bootcamp From Zero to Hero"
+      - "Software Engineering 101: Plan and Execute Better Software"
+      - "MasterClass Software Testing with Jira & Agile"
