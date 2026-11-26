@@ -27,23 +27,20 @@ sections:
     items:
       - position: Software Engineer I
         organization: Brain Station 23
-        location: Dhaka, Bangladesh
         startDate: "2024-12"
         description: |
           - **Muktopay** — online banking service in collaboration with Banglalink (Java, Spring Boot, Gradle, PostgreSQL)
-          - **Revo** — automation platform to scrape and deliver data to client system (React, Spring Boot, FastAPI, PostgreSQL)
-          - **Cash Collection Monitoring System** — internal company finance tracker (Django, PostgreSQL, Vue, TypeScript)
+          - **Revo** — job-board automation platform that scrapes and delivers data to client systems (React, Spring Boot, FastAPI, PostgreSQL)
+          - **Cash Collection Monitoring System** — Company's internal finance tracker (Django, PostgreSQL, Vue, TypeScript)
           - **TalkRemit Wallet** — money exchange platform for TalkRemit Ltd, UK (Vue, TypeScript, Bootstrap)
           - **TEQ** — Visual Planner (administration), Share-Bus (trip management) and Bus-Business (vehicle management) platforms for the Norwegian bus industry (Vue, TypeScript, Bootstrap)
           - **Sykehuspartner** — Norwegian hospital management platform (Vue, TypeScript, Bootstrap)
           - **ConPass** — sister-concern management for Japanese company Nihon-Purple (Vue, TypeScript, Bootstrap)
       - position: Mentor
         organization: SheSTEM
-        location: Bangladesh
         startDate: "2025-05"
       - position: Intern, Computer Networking
         organization: Janata Bank PLC
-        location: Dhaka, Bangladesh
         startDate: "2023-05"
         endDate: "2023-07"
 
@@ -51,16 +48,13 @@ sections:
     items:
       - institution: University of Dhaka
         degree: Executive Master in Information Technology
-        location: Dhaka, Bangladesh
         startDate: "2026-08"
       - institution: Islamic University of Technology (IUT)
         degree: B.Sc. in Computer Science and Engineering
-        location: Gazipur, Bangladesh
         startDate: "2020-01"
         endDate: "2024-07"
       - institution: Feni Girls' Cadet College
         degree: SSC and HSC
-        location: Feni, Bangladesh
         startDate: "2013-01"
         endDate: "2019-05"
 
