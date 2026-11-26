@@ -4,7 +4,7 @@
 
 personalInfo:
   name: Mohsina Tabassum Rifa
-  title: Software Engineer | Competitive Programmer
+  title: Software Engineer I | SheSTEM Mentor | Competitive Programmer
   email: mohsina.tabassum.rifa@gmail.com
   phone: "+880-1318-241452"
   location: Dhaka, Bangladesh
@@ -17,9 +17,10 @@ personalInfo:
 sections:
   - type: summary
     content: >-
-      Software Engineer at Brain Station 23 building full-stack web platforms for
+      Software Engineer I at Brain Station 23 building full-stack web platforms for
       fintech, banking, healthcare and transport clients in the UK, Norway and Japan,
-      using **Vue/TypeScript**, **React**, **Spring Boot** and **Django** with PostgreSQL.
+      using **Spring Boot**, **Django** and **FastAPI** with PostgreSQL on the backend
+      and **Vue/TypeScript** and **React** on the frontend.
       Competitive programmer and published researcher in ML-based autism detection.
 
   - type: experience
@@ -33,7 +34,7 @@ sections:
           - **Revo** — job-board automation platform that scrapes and delivers data to client systems (React, Spring Boot, FastAPI, PostgreSQL)
           - **Cash Collection Monitoring System** — internal application to track company finance (Vue, TypeScript, Django, PostgreSQL)
           - **TalkRemit Wallet** — money exchange platform for TalkRemit Ltd, UK (Vue, TypeScript, Bootstrap)
-          - **Norwegian bus industry** — Visual Planner (administration), Share-Bus (trip management) and Bus-Business (vehicle management) (Vue, TypeScript, Bootstrap)
+          - **TEQ** — Visual Planner (administration), Share-Bus (trip management) and Bus-Business (vehicle management) platforms for the Norwegian bus industry (Vue, TypeScript, Bootstrap)
           - **Sykehuspartner** — Norwegian hospital management platform (Vue, TypeScript, Bootstrap)
           - **ConPass** — sister-concern management for Japanese company Nihon-Purple (Vue, TypeScript, Bootstrap)
       - position: Mentor
