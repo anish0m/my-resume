@@ -64,8 +64,10 @@ sections:
         items: [Java, Python, TypeScript, JavaScript, C++, PHP, SQL]
       - category: Frameworks
         items: [Spring Boot, Django, FastAPI, Vue, React, Alpine.js, Bootstrap, LangChain, Streamlit]
+      - category: AI & LLM
+        items: [LLMs, RAG, LangGraph, Agentic Development (AIDLC), Prompt Engineering, FAISS, ChromaDB]
       - category: Data & Tools
-        items: [PostgreSQL, SQLite, Gradle, Git, Jira]
+        items: [PostgreSQL, SQLite, Docker, AWS, Amazon CloudWatch, Gradle, Git, Jira]
       - category: Machine Learning
         items: [Decision Tree, Logistic Regression, GNB, SVM, Random Forest]
       - category: Spoken Languages
